@@ -1,1 +1,42 @@
 @import url(main.css);
+
+.react_logo {
+    padding: 2em;
+    width: 10%;
+    display: flex;
+   justify-content: center;
+}
+
+.js_logo {
+    padding: 2em;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.html5_logo {
+    padding: 2em;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.python_logo {
+    padding: 2em;
+    width: 10%;
+}
+
+.github_logo {
+    padding: 2em;
+    width: 10%;
+}
+
+.django_logo {
+    padding: 2em;
+    width: 10%;
+}
+
+.sql_logo {
+    padding: 2em;
+    width: 10%;
+}
