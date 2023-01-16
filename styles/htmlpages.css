@@ -5,6 +5,7 @@
     width: 10%;
     display: flex;
    justify-content: center;
+
 }
 
 .js_logo {
@@ -39,4 +40,14 @@
 .sql_logo {
     padding: 2em;
     width: 10%;
+}
+
+h2.subpage--projects {
+    display: flex;
+    justify-content: center
+}
+
+h2.subpage--techstack {
+    display: flex;
+    justify-content: center
 }
