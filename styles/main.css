@@ -50,7 +50,7 @@ li {
 
 a {
     text-decoration: none;
-    color: lightgrey;
+    color: honeydew;
 }
 a:hover {
     color: rgb(8, 89, 119);
@@ -62,6 +62,7 @@ a:hover {
 h2.subpage--contact {
     display: flex;
     justify-content: center;
+    color: honeydew;
 }
 
 .nav {
@@ -117,6 +118,7 @@ ul.nav_links {
 
 h2.title {
     text-align: center;
+    color: red;
 }
 
 
