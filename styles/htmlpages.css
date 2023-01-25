@@ -2,7 +2,7 @@
 
 .react_logo {
     padding: 2em;
-    width: 10%;
+    width: 25%;
     display: flex;
    justify-content: center;
 
@@ -10,44 +10,51 @@
 
 .js_logo {
     padding: 2em;
-    width: 10%;
+    width: 25%;
     display: flex;
     justify-content: center;
 }
 
 .html5_logo {
     padding: 2em;
-    width: 10%;
+    width: 25%;
     display: flex;
     justify-content: center;
 }
 
 .python_logo {
     padding: 2em;
-    width: 10%;
+    width: 25%;
 }
 
 .github_logo {
     padding: 2em;
-    width: 10%;
+    width: 25%;
 }
 
 .django_logo {
     padding: 2em;
-    width: 10%;
+    width: 25%;
 }
 
 .sql_logo {
     padding: 2em;
-    width: 10%;
+    width: 25%;
 }
 
 h2.subpage--projects {
     display: flex;
-    justify-content: center
+    justify-content: center;
+    color: honeydew;
 }
 
 h2.subpage--techstack {
     display: flex;
-    justify-content: center
+    justify-content: center;
+    color: honeydew;
+}
+
+article.tech_detail {
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
