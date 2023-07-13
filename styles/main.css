@@ -52,6 +52,7 @@ a {
     text-decoration: none;
     color: honeydew;
 }
+
 a:hover {
     color: rgb(8, 89, 119);
     font-weight: bold;
@@ -70,7 +71,8 @@ h2.subpage--contact {
     padding: 0 80px;
     align-items: center;
     flex-wrap: wrap;
-    font-family: 'Caveat', cursive;;
+    font-family: 'Caveat', cursive;
+    ;
 }
 
 
@@ -81,7 +83,7 @@ h2.subpage--contact {
     justify-content: flex-end;
 }
 
-    
+
 ul.nav_links {
     list-style: none;
 }
@@ -125,13 +127,13 @@ h2.title {
 img.picture {
     border-radius: 224px;
     height: 450px;
-  
+
 }
 
 
 .footer {
-    background-color:rgb(19, 5, 221);
-    color:honeydew;
+    background-color: rgb(19, 5, 221);
+    color: honeydew;
     display: flex;
     flex: 1;
     justify-content: space-around;
@@ -139,7 +141,7 @@ img.picture {
     font-size: smaller;
     padding: 2em;
     margin-top: 40px;
-  }
+}
 
 .nav_list {
     display: flex;
@@ -155,29 +157,29 @@ img.picture {
 .contact {
     display: flex;
     flex-wrap: wrap;
-    margin-left:1em;
-    padding:1em;
+    margin-left: 1em;
+    padding: 1em;
 }
 
 .technologies {
-    margin-left:1em;
-    padding:1em;
+    margin-left: 1em;
+    padding: 1em;
 }
 
 .projects {
-    margin-left:1em;
-    padding:1em;
+    margin-left: 1em;
+    padding: 1em;
 }
 
 .resume {
-    margin-left:1em;
-    padding:1em;
+    margin-left: 1em;
+    padding: 1em;
 }
 
 
 .home {
-    margin-left:1em;
-    padding:1em;
+    margin-left: 1em;
+    padding: 1em;
 }
 
 .title {
